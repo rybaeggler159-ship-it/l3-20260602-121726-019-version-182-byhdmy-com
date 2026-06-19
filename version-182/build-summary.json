@@ -1,0 +1,23 @@
+{
+  "site_title": "欧美经典影片-经典影片合集-高清影片在线观看",
+  "movie_count": 1982,
+  "detail_pages": 1982,
+  "category_pages": 10,
+  "categories": {
+    "欧美经典": 199,
+    "悬疑犯罪": 199,
+    "高分剧情": 199,
+    "爱情家庭": 199,
+    "科幻奇幻": 197,
+    "动作冒险": 196,
+    "喜剧轻松": 199,
+    "纪录人文": 196,
+    "亚洲剧集": 199,
+    "年代口碑": 199
+  },
+  "entry_files": [
+    "index.html",
+    "categories.html",
+    "ranking.html"
+  ]
+}

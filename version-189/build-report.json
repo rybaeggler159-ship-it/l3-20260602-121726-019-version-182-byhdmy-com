@@ -1,0 +1,23 @@
+{
+  "records": 2000,
+  "movies": 2000,
+  "movie_pages": 2000,
+  "html_pages": 2014,
+  "categories": {
+    "热播精选": 200,
+    "爱情青春": 200,
+    "悬疑犯罪": 200,
+    "动作冒险": 200,
+    "科幻奇幻": 200,
+    "喜剧治愈": 200,
+    "都市家庭": 200,
+    "古装历史": 200,
+    "惊悚灾难": 200,
+    "全球剧场": 200
+  },
+  "category_total": 2000,
+  "jpg_files": 0,
+  "missing_baidu": [],
+  "sample_missing_player": [],
+  "m3u8_count": 20
+}
